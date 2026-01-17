@@ -1,0 +1,16 @@
+# --- Secrets ---
+.env
+.env.*
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Mac ---
+.DS_Store
+
+# --- VS Code / IDE ---
+.vscode/
+.idea/
